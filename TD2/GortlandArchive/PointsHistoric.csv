@@ -1,0 +1,185 @@
+full_id,osm_id,osm_type,railway,public_transport,name,historic,alt_name,long,lat
+n35231094,35231094,node,station,station,Hesselby,,,18.531,57.544
+n35231096,35231096,node,halt,,Munkebos,,,18.521,57.537
+n35231097,35231097,node,station,station,Tule,,,18.507,57.523
+n35231596,35231596,node,halt,,Kambshagtorp,,,18.502,57.520
+n35506295,35506295,node,,,Söderport,city_gate,,18.292,57.635
+n52099402,52099402,node,level_crossing,,,,,18.524,57.540
+n52586897,52586897,node,,,Galgberget,ruins,,18.307,57.651
+n52754393,52754393,node,halt,,Eken,,,18.524,57.540
+n83730235,83730235,node,,,Österport,city_gate,,18.298,57.638
+n448281278,448281278,node,,,Gamle Hamn,archaeological_site,,19.091,57.943
+n605015930,605015930,node,,,Änges Bildstenar,archaeological_site,,18.500,57.395
+n663447948,663447948,node,,,Gravfältet vid Bjärs,archaeological_site,,18.786,57.770
+n685981452,685981452,node,,,,memorial,,18.794,57.786
+n696071874,696071874,node,,,Sankt Olofs kyrka,archaeological_site,,19.090,57.942
+n825232280,825232280,node,,,,ruins,,19.244,58.337
+n937714637,937714637,node,,,Gålrum Gravfält,archaeological_site,,18.656,57.331
+n1127172958,1127172958,node,,,Shipwreck Fortuna,ruins,,19.244,57.996
+n1127173027,1127173027,node,,,,ruins,,19.240,57.995
+n1369246577,1369246577,node,,,Gannarve,archaeological_site,,18.192,57.348
+n1369292775,1369292775,node,,,,bunker,,18.345,57.684
+n1369292988,1369292988,node,,,,bunker,,18.347,57.686
+n1369293121,1369293121,node,,,,bunker,,18.346,57.688
+n1369293239,1369293239,node,,,,bunker,,18.351,57.689
+n1429098156,1429098156,node,,,,ruins,,18.194,57.333
+n1430279427,1430279427,node,,,Fornborgen i Boge,archaeological_site,,18.739,57.629
+n1430407574,1430407574,node,,,,archaeological_site,,18.674,57.610
+n1433642522,1433642522,node,,,,archaeological_site,,18.422,57.322
+n1433648258,1433648258,node,,,Båtsmannshus,archaeological_site,,18.235,57.343
+n1433731286,1433731286,node,,,,archaeological_site,,18.150,56.943
+n1455799827,1455799827,node,crossing,,,,,18.531,57.544
+n1489628660,1489628660,node,,,Kronvalls Fisleläge,village,,18.098,57.282
+n1824389739,1824389739,node,,,Lejstu rojr,archaeological_site,"Lejsturöjr;Lejsturojr",18.481,57.187
+n1834747335,1834747335,node,,,Gunnfjauns kapell,ruins,,18.688,57.366
+n1844650303,1844650303,node,,,"Fårösunds fästning, Batteri II",ruins,,19.019,57.907
+n1849131856,1849131856,node,,,,memorial,Gothem 150:1,18.705,57.586
+n1850647610,1850647610,node,,,Bandeläins täppu,archaeological_site,,18.630,57.293
+n1853513909,1853513909,node,,,Havors fornborg,archaeological_site,,18.319,57.216
+n2146530907,2146530907,node,crossing,,,,,18.531,57.544
+n2146530908,2146530908,node,crossing,,,,,18.531,57.544
+n2146530916,2146530916,node,crossing,,,,,18.531,57.544
+n2146530919,2146530919,node,crossing,,,,,18.531,57.544
+n2146530920,2146530920,node,crossing,,,,,18.531,57.544
+n2160611028,2160611028,node,level_crossing,,,,,18.520,57.536
+n2167598744,2167598744,node,,,"Fjäle gård i Ala, RAÄ-nummer Ala 98:1",archaeological_site,,18.620,57.390
+n2320588646,2320588646,node,,,Christopher Polhem,monument,,18.295,57.642
+n2320592905,2320592905,node,,,Snäckgårdsporten,city_gate,,18.297,57.647
+n2338340536,2338340536,node,,,Kauparve röse,archaeological_site,,18.809,57.804
+n2376496025,2376496025,node,,,Rannarve Skeppssättningar,archaeological_site,Rannarveskeppen,18.224,57.396
+n2406468225,2406468225,node,,,Uggarde rojr,archaeological_site,"Uggårda roir;Uggarde rör;Uggarderojr",18.438,57.170
+n2406468226,2406468226,node,,,Fredarve,ruins,Slottet på Hulehällar,18.284,56.972
+n2459344841,2459344841,node,,,Ganns ödekyrka,ruins,,18.752,57.796
+n2758370179,2758370179,node,,,Gnisvärd skeppssättning #1,archaeological_site,Tofta14:1,18.141,57.508
+n3003538503,3003538503,node,,,Minnessten Kvarnbacken,yes,,18.713,57.816
+n3022802843,3022802843,node,,,,ruins,,19.235,57.993
+n3173424684,3173424684,node,,,Gamla lägerplatsen,yes,Lägret vid Bunn,18.981,57.852
+n3679740388,3679740388,node,,,,tomb,,18.072,57.310
+n4166098288,4166098288,node,,,Oscarsstenen,memorial,,18.275,57.619
+n4415094131,4415094131,node,,,,milestone,,18.128,57.482
+n4415094132,4415094132,node,,,,archaeological_site,,18.141,57.483
+n4754525292,4754525292,node,,,Kalkugn,archaeological_site,,19.086,57.891
+n4852224087,4852224087,node,,,Fårö 380:1,archaeological_site,,19.123,57.849
+n4852505594,4852505594,node,,,Fårö 107:1,archaeological_site,,19.123,57.860
+n4852505601,4852505601,node,,,Fårö 96:2,archaeological_site,,19.112,57.862
+n4852505602,4852505602,node,,,Fårö 96:1,archaeological_site,,19.112,57.862
+n4852505603,4852505603,node,,,Fårö 77:2,archaeological_site,,19.113,57.860
+n4852505604,4852505604,node,,,Fårö 77:1,archaeological_site,,19.113,57.860
+n4852505605,4852505605,node,,,Fårö 147:1,archaeological_site,,19.112,57.859
+n4852505606,4852505606,node,,,Fårö 147:2,archaeological_site,,19.112,57.859
+n4852505607,4852505607,node,,,Fårö 78:5,ruins,,19.112,57.858
+n4852505608,4852505608,node,,,Fårö 146:1,ruins,,19.114,57.858
+n4852505609,4852505609,node,,,Fårö 78:1,ruins,,19.112,57.858
+n4852505610,4852505610,node,,,Fårö 78:2,ruins,,19.113,57.858
+n4852505611,4852505611,node,,,Fårö 78:4,ruins,,19.113,57.858
+n4852505612,4852505612,node,,,Fårö 78:3,ruins,,19.113,57.858
+n4852505613,4852505613,node,,,Fårö 79:1,archaeological_site,,19.110,57.858
+n4852505614,4852505614,node,,,Fårö 79:2,archaeological_site,,19.110,57.858
+n4852505615,4852505615,node,,,Fårö 142:1,archaeological_site,,19.110,57.856
+n4852505616,4852505616,node,,,Fårö 80:1,archaeological_site,,19.113,57.855
+n4852505617,4852505617,node,,,Fårö 252:1,archaeological_site,,19.112,57.852
+n4852505619,4852505619,node,,,Fårö 259:1,archaeological_site,,19.129,57.849
+n4852505620,4852505620,node,,,Fårö 259:1,archaeological_site,,19.129,57.849
+n4888688747,4888688747,node,,,Fårö 15:1,archaeological_site,,19.124,57.959
+n4888688748,4888688748,node,,,Fårö 14:3,archaeological_site,,19.112,57.960
+n4888688749,4888688749,node,,,Fårö 14:2,archaeological_site,,19.113,57.960
+n4888688750,4888688750,node,,,Fårö 14:1,archaeological_site,,19.113,57.960
+n4888688751,4888688751,node,,,Fårö 12:1,archaeological_site,,19.131,57.965
+n4888688769,4888688769,node,,,Fårö 9:1,archaeological_site,,19.195,57.970
+n4888688770,4888688770,node,,,Fårö 4:1,archaeological_site,,19.215,57.994
+n4888688772,4888688772,node,,,Fårö 2:4,archaeological_site,,19.190,57.998
+n4888688780,4888688780,node,,,Fårö 11:2,archaeological_site,,19.135,57.966
+n4888688781,4888688781,node,,,Fårö 11:1,archaeological_site,,19.135,57.966
+n4888688798,4888688798,node,,,Fårö 3:1,archaeological_site,,19.181,57.997
+n4888688800,4888688800,node,,,Fårö 2:3,archaeological_site,,19.189,57.998
+n4888688801,4888688801,node,,,Fårö 2:2,archaeological_site,,19.189,57.998
+n4888688802,4888688802,node,,,Fårö 2:1,archaeological_site,,19.189,57.998
+n4888688803,4888688803,node,,,Fårö 1:1,archaeological_site,,19.240,57.998
+n4954644105,4954644105,node,,,,village,,18.158,57.407
+n4956857795,4956857795,node,,,Bara Ödekyrka,ruins,,18.612,57.585
+n5112840376,5112840376,node,,,Majsterrojr,archaeological_site,,18.734,57.615
+n5635864729,5635864729,node,,,Ryska kyrkogården,memorial,,19.298,58.352
+n5635864730,5635864730,node,,,Ryska Kanonerna,memorial,,19.299,58.351
+n5712258179,5712258179,node,,,Offerkällan,memorial,,18.473,57.668
+n5713999766,5713999766,node,,,,memorial,,18.806,57.705
+n5714108423,5714108423,node,,,,memorial,,18.417,57.704
+n6373523158,6373523158,node,,,Ardre Domarring,archaeological_site,,18.734,57.360
+n6373528707,6373528707,node,,,Liffridesskeppen,archaeological_site,,18.668,57.355
+n6373556118,6373556118,node,,,Digarojr Skeppssättning,archaeological_site,,18.638,57.308
+n6373556119,6373556119,node,,,Digarojr Röse,archaeological_site,,18.637,57.309
+n6373556120,6373556120,node,,,Digarojr Cist,archaeological_site,,18.638,57.309
+n6373556121,6373556121,node,,,Digarojr Gravfält,archaeological_site,,18.639,57.312
+n6373566314,6373566314,node,,,Lau Prästgårdsruin,ruins,,18.621,57.283
+n6373566315,6373566315,node,,,Burs 65:1 Ringcross,wayside_cross,,18.515,57.243
+n6373569137,6373569137,node,,,Rojrhagen,archaeological_site,,18.403,57.283
+n6373614409,6373614409,node,,,Anga 31:2,archaeological_site,,18.706,57.478
+n6373616301,6373616301,node,,,Kräklingbo 12:1,archaeological_site,,18.707,57.450
+n6373633487,6373633487,node,,,Bjärs Hög,archaeological_site,Norrlanda 16:1,18.704,57.518
+n6373633488,6373633488,node,,,Norrlanda 20:1,archaeological_site,,18.712,57.518
+n6373633489,6373633489,node,,,Norrlanda 25:1,archaeological_site,,18.712,57.519
+n6373633490,6373633490,node,,,Norrlanda 29:1 röse,archaeological_site,,18.727,57.519
+n6373633491,6373633491,node,,,Norrlanda 29:1 skeppssättning,archaeological_site,,18.727,57.519
+n6373633492,6373633492,node,,,Norrlanda 28:1,archaeological_site,,18.725,57.518
+n6373633493,6373633493,node,,,Norrlanda 7:1,archaeological_site,,18.722,57.518
+n6373633495,6373633495,node,,,Trullhalsar Gravfält,archaeological_site,,18.742,57.507
+n6373661542,6373661542,node,,,Butravjs Skeppssättningar,archaeological_site,,18.669,57.530
+n6373668146,6373668146,node,,,Vallstena 72:1,archaeological_site,,18.658,57.591
+n6373677147,6373677147,node,,,Dalhem 45:1,wayside_cross,,18.536,57.553
+n6373677148,6373677148,node,,,Dalhem 46:1,wayside_cross,,18.532,57.553
+n6373677150,6373677150,node,,,Nordens största gravklot,archaeological_site,,18.476,57.497
+n6373692864,6373692864,node,,,Sjonhem 16:1,archaeological_site,,18.497,57.472
+n6373695001,6373695001,node,,,Gräne Skeppssättning,archaeological_site,,18.340,57.442
+n6373697292,6373697292,node,,,Buttle 266,archaeological_site,,18.502,57.395
+n6373703775,6373703775,node,,,Sanda 58:1,archaeological_site,,18.207,57.455
+n6373708921,6373708921,node,,,Västergarn 19:1,archaeological_site,,18.196,57.465
+n6373725189,6373725189,node,,,Gnisvärd skeppssättning #2,archaeological_site,Tofta 15:1,18.141,57.507
+n6373725190,6373725190,node,,,Gnisvärd skeppssättning #3,archaeological_site,Tofta 17:1,18.141,57.506
+n6373725205,6373725205,node,,,Gnisvärd dolmen,archaeological_site,Tofta 143:3,18.141,57.509
+n6373726985,6373726985,node,,,Gnisvärds private skeppssättning,monument,,18.126,57.507
+n6373731494,6373731494,node,,,Stenkumla 96:1,archaeological_site,,18.222,57.524
+n6373732851,6373732851,node,,,Endre 17:1,archaeological_site,,18.394,57.613
+n6373736775,6373736775,node,,,Endre 35:1,archaeological_site,,18.387,57.622
+n6373741789,6373741789,node,,,Visby 70:1,wayside_cross,,18.299,57.634
+n6373747906,6373747906,node,,,Boge 33:1,archaeological_site,,18.735,57.628
+n6373747978,6373747978,node,,,Boge 4:1,wayside_cross,,18.758,57.702
+n6373753073,6373753073,node,,,Domarlunden,archaeological_site,,18.817,57.784
+n6373753074,6373753074,node,,,Lajkarhajd,archaeological_site,,18.815,57.785
+n6373753075,6373753075,node,,,Sangelstainen,archaeological_site,,18.810,57.783
+n6373759857,6373759857,node,,,Rute 23:1,memorial,,18.948,57.798
+n6373764149,6373764149,node,,,Majsterrojr skeppssättning,archaeological_site,,18.734,57.615
+n6373771303,6373771303,node,,,Lilla Bjärs Gravfält,archaeological_site,,18.541,57.790
+n6374174464,6374174464,node,,,Barshalder Skeppssättning,archaeological_site,Grötlingbo 4:3,18.321,57.102
+n6374182223,6374182223,node,,,Havdhem Skeppssättningar,archaeological_site,,18.342,57.181
+n6374182224,6374182224,node,,,Bildstenen vid Stenbro,monument,,18.211,57.232
+n6374203622,6374203622,node,,,Djupvik Skeppssättning,archaeological_site,Eksta 76:1,18.151,57.307
+n6374234542,6374234542,node,,,Rannarve Röse,archaeological_site,,18.226,57.398
+n6374238908,6374238908,node,,,Barshalder Cairn,archaeological_site,,18.321,57.102
+n6374256479,6374256479,node,,,,,,18.240,57.269
+n6590316187,6590316187,node,,,,archaeological_site,,18.431,57.170
+n6590316188,6590316188,node,,,,archaeological_site,,18.435,57.170
+n6590325685,6590325685,node,,,,archaeological_site,,18.426,57.168
+n6634264854,6634264854,node,,,Sankt Göransporten,city_gate,,18.300,57.645
+n6634294872,6634294872,node,,,Norderport,city_gate,,18.301,57.645
+n6641175640,6641175640,node,,,Galgen,gallows,,18.307,57.650
+n6641525538,6641525538,node,,,,,,18.301,57.642
+n6641693084,6641693084,node,,,Linné,memorial,,18.293,57.643
+n6641861710,6641861710,node,,,Dalmansporten,city_gate,,18.301,57.642
+n6651668069,6651668069,node,,,Järnåldersgrav,tomb,,17.973,57.289
+n6658465706,6658465706,node,level_crossing,,,,,18.841,57.896
+n6658465707,6658465707,node,level_crossing,,,,,18.842,57.897
+n6658465725,6658465725,node,level_crossing,,,,,18.858,57.903
+n6672514930,6672514930,node,,,Kalkugn,building,,19.057,57.866
+n6699987258,6699987258,node,,,,ruins,,18.306,57.648
+n6700033551,6700033551,node,,,Hit rann blodet,memorial,,18.289,57.638
+n7292507079,7292507079,node,,,Albatrossmonumentet,memorial,,18.859,57.422
+n7620870942,7620870942,node,,,,archaeological_site,,18.433,57.173
+n7620870943,7620870943,node,,,,archaeological_site,,18.437,57.172
+n7620870944,7620870944,node,,,,archaeological_site,,18.440,57.172
+n7620870945,7620870945,node,,,,archaeological_site,,18.438,57.173
+n7620870946,7620870946,node,,,,archaeological_site,,18.429,57.173
+n7620891111,7620891111,node,,,Hagrojr,archaeological_site,"Hagröjr;Hag rojr",18.499,57.189
+n8117286489,8117286489,node,,,,ruins,,18.762,57.425
+n8729113331,8729113331,node,,,,memorial,,18.339,57.581
+n8900440073,8900440073,node,,,Flyktingarna Från Estland,memorial,,18.810,57.706
+n8995992315,8995992315,node,,,,yes,,18.096,57.275
+n9023836848,9023836848,node,level_crossing,,,,,18.526,57.542
