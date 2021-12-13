@@ -1,0 +1,26 @@
+{
+    "id": "966F47D7",
+    "path": "~/SVM/TD SVM 2021-2022/TD5 librairies SVM/ksvm.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "1563192307",
+    "contents": "",
+    "dirty": false,
+    "created": 1636546653687.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "84,16",
+        "scrollLine": "72"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1635337841,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635337841,
+    "read_only": false,
+    "read_only_alternatives": []
+}

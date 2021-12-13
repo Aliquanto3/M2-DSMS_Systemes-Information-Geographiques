@@ -1,0 +1,26 @@
+{
+    "id": "7538FB6A",
+    "path": "~/SVM/TD SVM 2021-2022/TD6/Ex 4a- wine.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "3234306039",
+    "contents": "",
+    "dirty": false,
+    "created": 1636546171741.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "267,9",
+        "scrollLine": "250"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1636551050,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636551050892,
+    "read_only": false,
+    "read_only_alternatives": []
+}
