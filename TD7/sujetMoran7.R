@@ -120,7 +120,7 @@ indiceGeary=function(Y,W,N){
 resuMoran=NULL
 for (k in 1:1000){
   NO2P=sample(NO2$NO2)
-  resuMoran=c(resu,indiceMoran(W,NO2P))
+  resuMoran=c(resuMoran,indiceMoran(W,NO2P))
 }
 hist(resuMoran)
 
@@ -129,7 +129,7 @@ resuGeary=NULL
 NN=diag(W)/(1/N)
 for (k in 1:1000){
   NO2P=sample(NO2$NO2)
-  resuGeary=c(resu,indiceGeary(NO2$Y,W,NN))
+  resuGeary=c(resuGeary,indiceGeary(NO2$Y,W,NN))
 }
 hist(resuGeary)
 
